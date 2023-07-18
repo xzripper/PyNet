@@ -31,7 +31,7 @@ class NetClient:
         def SERVER_BROADCAST(content):
             handler(content)
 
-    def set_on_server_sent_data(self, handler: Callable):
+    def set_on_server_sent_data(self, handler: Callable) -> None:
         """Handle server data transfer."""
         # [SERVER_SENT_DATA_EVENT_NAME].
         @self.client.event
