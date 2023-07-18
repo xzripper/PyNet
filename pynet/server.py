@@ -70,7 +70,7 @@ class NetServer:
                 elif type(_client) == UrsinaNetworkingConnectedClient:
                     _client.socket.close()
             except AttributeError:
-                pynet_log('UrsinaNetworkingServer [info/warning] ctx: client.close() (server.py); Connection already closed')
+                pynet_log('UrsinaNetworkingServer [info/warning] ctx: client.close() (server.py); Connection already closed.')
 
     def process_net(self) -> None:
         """Process net events."""
