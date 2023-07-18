@@ -88,6 +88,7 @@
 - [ ] Optimize ```easyursinanetworking``` and ```replicated_2```.
 - [ ] Implement server closing.
 - [ ] Threaded network.
+- [ ] Files transfering.
 - [ ] Review the code and handle more exceptions.
 - [ ] Add game example.
 - [ ] Finish project.
