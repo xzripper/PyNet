@@ -1,6 +1,6 @@
 <img src="pynet.png">
 
-<h1 align="center">PyNet - High Level Networking Framework (HLNF). [BETA].</h1>
+<h1 align="center">PyNet - High Level Networking Framework (HLNF). [BETA]. <img src="https://www.codefactor.io/repository/github/xzripper/pynet/badge?style=for-the-badge"></h1>
 
 <b><p align="center">
     PyNet is a high level networking framework that provides fast, easy, and clear way to work with network.<br>
