@@ -17,7 +17,7 @@
       <li>All exceptions handled.</li>
       <li>Event-supported.</li>
       <li>Advanced ```disconnect``` feature.</li>
-      <li>A lot of more...</li>
+      <li>Much more...</li>
     </ul>
 
   <br><p align="center">PyNet <a href="https://github.com/xzripper/PyNet/blob/main/documentation.md">documentation</a>.</p>
