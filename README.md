@@ -89,6 +89,7 @@
 - [ ] Implement server closing.
 - [ ] Threaded network.
 - [ ] Files transfering.
+- [ ] Implement UDP connection. (S_DGRAM).
 - [ ] Review the code and handle more exceptions.
 - [ ] Add game example.
 - [ ] Finish project.
