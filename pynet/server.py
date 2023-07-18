@@ -76,19 +76,19 @@ class NetServer:
         """Process net events."""
         self.server.process_net_events()
 
-    def set_on_client_connected(self, handler: Callable):
+    def set_on_client_connected(self, handler: Callable) -> None:
         """Handle client connection."""
         @self.server.event
         def onClientConnected(client):
             handler(client)
 
-    def set_on_client_disconnected(self, handler: Callable):
+    def set_on_client_disconnected(self, handler: Callable) -> None:
         """Handle client disconnection."""
         @self.server.event
         def onClientDisconnected(client):
             handler(client)
 
-    def set_on_client_sent_data(self, handler: Callable):
+    def set_on_client_sent_data(self, handler: Callable) -> None:
         """Handle client data transfer."""
         # [CLIENT_SENT_DATA_EVENT_NAME].
         @self.server.event
