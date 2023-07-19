@@ -92,7 +92,7 @@
 - [ ] Threaded network.
 - [ ] Files transfering.
 - [ ] Implement UDP connection. (S_DGRAM).
-- [ ] Feature to limit amount of clientd that can join.
+- [ ] Feature to limit amount of clients that can join.
 - [ ] Get amount of clients.
 - [ ] Review the code and handle more exceptions.
 - [ ] Add game example.
