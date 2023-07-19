@@ -13,11 +13,13 @@
       <li>Creating server with two lines of code.</li>
       <li>Sending data with any type with one line of code.</li>
       <li>Data-protected when transfering.</li>
+      <li>Multiple clients support.</li>
       <li>Lot of pre-defined functions.</li>
       <li>All exceptions handled.</li>
       <li>Event-supported.</li>
       <li>Advanced ```disconnect``` feature.</li>
       <li>Much more...</li>
+      <li>And much more coming!</li>
     </ul>
 
   <br><p align="center">PyNet <a href="https://github.com/xzripper/PyNet/blob/main/documentation.md">documentation</a>.</p>
@@ -90,6 +92,8 @@
 - [ ] Threaded network.
 - [ ] Files transfering.
 - [ ] Implement UDP connection. (S_DGRAM).
+- [ ] Feature to limit amount of clientd that can join.
+- [ ] Get amount of clients.
 - [ ] Review the code and handle more exceptions.
 - [ ] Add game example.
 - [ ] Finish project.
